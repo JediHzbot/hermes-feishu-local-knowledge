@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes 飞书本地知识库"
+  short_description: "核查 Hermes 飞书接入、本地知识检索、Profile 可见性与带来源回复"
+  default_prompt: "用 $hermes-feishu-local-knowledge 核查飞书与本地知识库链路，先做只读检查。"
