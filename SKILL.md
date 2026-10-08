@@ -1,5 +1,6 @@
 ---
 name: hermes-feishu-local-knowledge
+license: Apache-2.0
 description: 配置、核查或排障 Windows 上 Hermes 通过飞书接收问题、检索本地 Markdown 知识库并带来源回复的流程。适用于飞书接入、知识检索工具部署和 Profile 可见性问题；不用于一般数据库开发。
 ---
 
