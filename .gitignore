@@ -1,0 +1,18 @@
+# Local credentials and runtime artifacts must stay outside the public package.
+.env
+.env.*
+auth.json
+config.local.*
+*.log
+*.db
+*.db-*
+*.sqlite*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+knowledge/
+vault/
+backups/
